@@ -3,8 +3,14 @@ import React from "react"
 class App extends React.Component {
 
     render() {
-        return (<div>
+        return (<div className="timeline">
             <ol>
+                <li>
+                    <div></div>
+                </li>
+                <li>
+                    <div></div>
+                </li>
                 <li>
                     <div></div>
                 </li>
