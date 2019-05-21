@@ -3,14 +3,14 @@ import React from "react"
 class App extends React.Component {
 
     render() {
-        <div>
+        return (<div>
             <ol>
                 <li>
                     <div></div>
                 </li>
                 <li></li>
             </ol>
-        </div>
+        </div>)
     }
 }
 
